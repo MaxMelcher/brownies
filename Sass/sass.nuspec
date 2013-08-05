@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>sass</id>
+    <title>Sass</title>
+    <version>3.2.10.1</version>
+    <authors>Stina Qvarnström</authors>
+    <owners>Stinaq</owners>
+    <summary>Sass is a CSS preprocessor</summary>
+    <description>Sass CSS preprocessor. Uses the built in cgem command.</description>
+    <projectUrl>https://github.com/stinaq/Brownies</projectUrl>
+    <tags>sass, ruby, scss, css</tags>
+  </metadata>
+</package>
