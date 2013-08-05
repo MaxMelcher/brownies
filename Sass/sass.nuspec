@@ -3,12 +3,12 @@
   <metadata>
     <id>sass</id>
     <title>Sass</title>
-    <version>3.2.10.1</version>
-    <authors>Stina Qvarnström</authors>
-    <owners>Stinaq</owners>
+    <version>3.2.10.2</version>
+    <authors>Hampton Catlin,Nathan Weizenbaum,Chris Eppstein</authors>
+    <owners>stinaq</owners>
     <summary>Sass is a CSS preprocessor</summary>
     <description>Sass CSS preprocessor. Uses the built in cgem command.</description>
-    <projectUrl>https://github.com/stinaq/Brownies</projectUrl>
+    <projectUrl>http://sass-lang.com/</projectUrl>
     <tags>sass, ruby, scss, css</tags>
   </metadata>
 </package>
