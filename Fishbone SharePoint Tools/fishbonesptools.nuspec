@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>fishbonesptools</id>
+    <title>Fishbone SharePoint Tools</title>
+    <version>5.1.0</version>
+    <authors>Hulabandula</authors>
+    <owners>stinaq</owners>
+    <summary>Some helpful tools for SharePoint 2013 Development</summary>
+    <description>The Fishbone Systems - Copy to SharePoint Hive extension allows the developer to quickly copy SharePoint mapped folder items and items published through modules to the SharePoint 2013 hive, via the context menu of VS2012. Functionallity: Copy to SharePoint Root. IISReset. Reset SharePoint Timer Service. Copy To Gac. Attach to IIS Worker Processes</description>
+    <projectUrl>http://visualstudiogallery.msdn.microsoft.com/4784e790-32f4-455f-9228-53f537c03787</projectUrl>
+    <tags>fishbone, dev, sharepoint, visual studio, plugin, dev tool</tags>
+  </metadata>
+</package>
