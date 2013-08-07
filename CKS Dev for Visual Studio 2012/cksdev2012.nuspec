@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>cksdev2012</id>
+    <title>CKS Dev for Visual Studio 2012</title>
+    <version>1.1.0</version>
+    <authors>Wes Hackett</authors>
+    <owners>stinaq</owners>
+    <summary>The CKS - Development Tools Edition for Visual Studio 2012</summary>
+    <description>The CKS - Development Tools Edition for Visual Studio 2012 is a collection of Visual Studio templates, Server Explorer extensions and tools providing accelerated SharePoint 2010/2013 development based on Microsoft's SharePoint 2010/2013 development tools.</description>
+    <projectUrl>http://cksdev.codeplex.com/</projectUrl>
+    <tags>cks, dev, sharepoint, visual studio, plugin, dev tool</tags>
+  </metadata>
+</package>
