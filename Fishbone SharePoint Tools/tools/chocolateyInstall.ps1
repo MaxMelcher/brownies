@@ -1,4 +1,4 @@
-$packageName = 'CKS - Dev for Visual Studio 2012'
+$packageName = 'Fishbone SharePoint Tools'
 
 function Get-Batchfile ($file) {
   $cmd = "`"$file`" & set"
