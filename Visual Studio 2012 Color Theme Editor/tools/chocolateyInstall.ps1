@@ -1,4 +1,4 @@
-$packageName = 'CKS - Dev for Visual Studio 2012'
+$packageName = 'Visual Studio 2012 Color Theme Editor'
 
 function Get-Batchfile ($file) {
   $cmd = "`"$file`" & set"

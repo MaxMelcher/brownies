@@ -3,7 +3,7 @@
   <metadata>
     <id>vs2012colorthemeeditor</id>
     <title>Visual Studio 2012 Color Theme Editor</title>
-    <version>2.3.0</version>
+    <version>2.3.1</version>
     <authors>Microsoft</authors>
     <owners>stinaq</owners>
     <summary>Allows users to create and edit Visual Studio themes. Themes can customize colors used for menus, toolbars, tabs, titlebars, the text editor, and other environment colors.</summary>
