@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>vs2012colorthemeeditor</id>
+    <title>Visual Studio 2012 Color Theme Editor</title>
+    <version>2.3.0</version>
+    <authors>Microsoft</authors>
+    <owners>stinaq</owners>
+    <summary>Allows users to create and edit Visual Studio themes. Themes can customize colors used for menus, toolbars, tabs, titlebars, the text editor, and other environment colors.</summary>
+    <description>Choose from several prebuilt themes including a Visual Studio 2010 theme (named Blue), a Light theme with a dark editor, a Dark theme with a light editor, and four additional colored themes (Red, Green, Tan, Purple). Ability to copy/paste, undo/redo, and multi-select edit color values. A new and improved color picker to easily change your theme’s colors. More Visual Studio UI that can be modified including most tool window backgrounds and selection colors</description>
+    <projectUrl>http://visualstudiogallery.msdn.microsoft.com/366ad100-0003-4c9a-81a8-337d4e7ace05</projectUrl>
+    <tags>theme, plugin, extension, themes, theming, color, colors, Visual Studio 2012, microsoft</tags>
+  </metadata>
+</package>
