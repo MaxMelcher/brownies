@@ -7,10 +7,13 @@ https://chocolatey.org/
 
 Packages so far:  
 -Sass  
-	run: cinst sass  
+  run: cinst sass  
 
 -CKS Dev for Visual Studio 2012  
-	run: cinst cksdev2012  
+  run: cinst cksdev2012  
 	
 -Fishbone Share Point Tools  
-	run: cinst fishbonesptools  
+  run: cinst fishbonesptools  
+  
+-Visual Studio 2012 Color Theme Editor  
+  run: cinst vs2012colorthemeeditor
