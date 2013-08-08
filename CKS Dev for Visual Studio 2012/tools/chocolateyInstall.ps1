@@ -8,10 +8,13 @@ function Get-Batchfile ($file) {
     }
 }
 
-function VsVars32()
-{
+function VsVars32() {
+  if (!(Test-Path env:VS110COMNTOOLS)) {
+    throw "Visual Studio could not be found on this computer. You need to have it installed to install this plugin"
+  } else {
     $BatchFile = join-path $env:VS110COMNTOOLS "vsvars32.bat"
     Get-Batchfile `"$BatchFile`"
+  }
 }
 
 function curlex($url, $filename) {
