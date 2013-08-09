@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>aspnetwebtools20122</id>
+    <title>ASP.NET and Web Tools 2012.2/title>
+    <version>2012.2.0</version>
+    <authors>Microsoft</authors>
+    <owners>stinaq</owners>
+    <summary>Web Tools for Visual Studio 2012</summary>
+    <description>Adds tools to Visual Studio for web development, such as syntax highlighting, intellisense, mobile emulator, selective publishing and support for LESS</description>
+    <projectUrl>http://www.asp.net/whitepapers/aspnet-and-web-tools-20122-release-notes</projectUrl>
+    <tags>microsoft, visual studio, web, tools, 2012, asp.net, less</tags>
+    <iconUrl></iconUrl>
+  </metadata>
+</package>
