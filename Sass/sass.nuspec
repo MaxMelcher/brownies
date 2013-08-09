@@ -10,6 +10,6 @@
     <description>Sass CSS preprocessor. Uses the built in cgem command.</description>
     <projectUrl>http://sass-lang.com/</projectUrl>
     <tags>sass, ruby, scss, css</tags>
-    <iconUrl>sass-icon.jpg</iconUrl>
+    <iconUrl>https://raw.github.com/stinaq/brownies/master/Sass/sass-icon.jpg</iconUrl>
   </metadata>
 </package>
