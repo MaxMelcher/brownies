@@ -9,7 +9,7 @@
     <summary>Web Tools for Visual Studio 2012</summary>
     <description>Adds tools to Visual Studio for web development, such as syntax highlighting, intellisense, mobile emulator, selective publishing and support for LESS</description>
     <projectUrl>http://www.asp.net/whitepapers/aspnet-and-web-tools-20122-release-notes</projectUrl>
-    <tags>microsoft, visual studio, web, tools, 2012, asp.net, less</tags>
+    <tags>microsoft, visual studio, web, tools, 2012, asp net, less</tags>
     <iconUrl>https://raw.github.com/stinaq/brownies/master/ASP.NET%20and%20Web%20Tools%202012.2/aspnet-icon.jpg</iconUrl>
   </metadata>
 </package>
