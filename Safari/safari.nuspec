@@ -10,6 +10,6 @@
     <description>Safari puts the emphasis on browsing not the browser. Innovative features make your experience on the web better than it ever was.</description>
     <projectUrl>http://support.apple.com/kb/dl1531</projectUrl>
     <tags>apple, safari, browser</tags>
-    <iconUrl></iconUrl>
+    <iconUrl>https://raw.github.com/stinaq/brownies/master/Safari/safari-logo.png</iconUrl>
   </metadata>
 </package>
