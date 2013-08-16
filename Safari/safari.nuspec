@@ -7,7 +7,7 @@
     <authors>Apple</authors>
     <owners>stinaq</owners>
     <summary>Safari web browser for Windows environment</summary>
-    <description>Safari puts the emphasis on browsing not the browser. Innovative features make your experience on the web better than it ever was.</description>
+    <description>Safari puts the emphasis on browsing not the browser. Innovative features make your experience on the web better than it ever was. Please note that Apple no longer supports or updates Safari for Windows, therefore there might be risks involved with installing it.</description>
     <projectUrl>http://support.apple.com/kb/dl1531</projectUrl>
     <tags>apple, safari, browser</tags>
     <iconUrl></iconUrl>
