@@ -14,9 +14,11 @@ $result = $host.ui.PromptForChoice($title, $message, $options, 0)
 switch ($result)
     {
         0 {
-        	Install-ChocolateyPackage 'safari' 'exe' 'silent' 'http://appldnld.apple.com/Safari5/041-5487.20120509.INU8B/SafariSetup.exe'
+        	Install-ChocolateyPackage 'safariwindows' 'exe' '/quiet' 'http://appldnld.apple.com/Safari5/041-5487.20120509.INU8B/SafariSetup.exe'
         }
-        1 {"You selected No."}
+        1 {
+        	"You selected No. We interpret that to mean that you don't want Safari for Windows. Then you will not. Exit"
+        }
     }
 
 
