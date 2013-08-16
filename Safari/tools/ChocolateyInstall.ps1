@@ -20,6 +20,3 @@ switch ($result)
         	"You selected No. We interpret that to mean that you don't want Safari for Windows. Then you will not. Exit"
         }
     }
-
-
-
