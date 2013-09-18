@@ -1,15 +1,19 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <metadata>
     <id>safariwindows</id>
     <title>Safari for Windows</title>
-    <version>5.1.7.2</version>
+    <version>5.1.7.20130816</version>
     <authors>Apple</authors>
     <owners>stinaq</owners>
-    <summary>Safari web browser for Windows environment</summary>
-    <description>Safari puts the emphasis on browsing not the browser. Innovative features make your experience on the web better than it ever was. Please note that Apple no longer supports or updates Safari for Windows, therefore there might be risks involved with installing it.</description>
+    <summary>[Deprecated, please use the “safari” package now] Safari web browser for Windows environment</summary>
+	<releaseNotes>The actual version of Safari in this package is 5.1.7.1</releaseNotes>
+    <description>[Deprecated, please use the “safari” package now] Safari puts the emphasis on browsing not the browser. Innovative features make your experience on the web better than it ever was. Please note that Apple no longer supports or updates Safari for Windows, therefore there might be risks involved with installing it.</description>
     <projectUrl>http://support.apple.com/kb/dl1531</projectUrl>
     <tags>apple, safari, browser, web, web browser</tags>
     <iconUrl>https://raw.github.com/stinaq/brownies/master/Safari/safari-logo.png</iconUrl>
+    <dependencies>
+        <dependency id="safari" />
+    </dependencies>
   </metadata>
 </package>
