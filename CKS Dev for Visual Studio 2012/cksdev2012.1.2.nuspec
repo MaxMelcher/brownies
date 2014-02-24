@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>cksdev2012</id>
+        <version>1.2</version>
+        <title>CKS Dev for Visual Studio 2012 and 2013</title>
+        <authors>Wes Hackett</authors>
+        <owners>stinaq</owners>
+        <projectUrl>http://cksdev.codeplex.com/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>The CKS - Development Tools Edition for Visual Studio 2012 is a collection of Visual Studio templates, Server Explorer extensions and tools providing accelerated SharePoint 2010/2013 development based on Microsoft's SharePoint 2010/2013 development tools.</description>
+        <summary>The CKS - Development Tools Edition for Visual Studio 2012</summary>
+        <releaseNotes>The current 1.2 release includes so many features, please read the full log here:
+http://visualstudiogallery.msdn.microsoft.com/cf1225b4-aa83-4282-b4c6-34feec8fc5ec</releaseNotes>
+        <language>en-US</language>
+        <tags>cks, dev, sharepoint, visual studio, plugin, dev tool</tags>
+    </metadata>
+    <files>
+        <file src="tools\chocolateyInstall.ps1" target="tools\chocolateyInstall.ps1" />
+    </files>
+</package>
